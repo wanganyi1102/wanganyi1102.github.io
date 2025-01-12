@@ -1,6 +1,8 @@
 ---
 title: "Data Visualisation"
-excerpt: "Data visualisations using bokeh and plotly \n Skills: Data Visualisation, Plotly, Bokeh, Matplotlib<br/><img src='/images/portfolio/dataviz.png'>"
+excerpt: "Data visualisations using bokeh and plotly 
+
+\n Skills: Data Visualisation, Plotly, Bokeh, Matplotlib<br/><img src='/images/portfolio/dataviz.png'>"
 collection: portfolio
 ---
 

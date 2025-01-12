@@ -1,6 +1,8 @@
 ---
 title: "Text Sentiment Analysis"
-excerpt: "A project for predicting text sentiments of tweets \n Skills: Deep Learning, Bi-LSTM, Hyperparameter tuning, Word2Vec, Text embedding, Natural Language Processing <br/><img src='/images/portfolio/nndl.png'>"
+excerpt: "A project for predicting text sentiments of tweets 
+
+\n Skills: Deep Learning, Bi-LSTM, Hyperparameter tuning, Word2Vec, Text embedding, Natural Language Processing <br/><img src='/images/portfolio/nndl_image.png'>"
 collection: portfolio
 ---
 

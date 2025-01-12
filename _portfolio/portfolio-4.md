@@ -1,6 +1,8 @@
 ---
 title: "Database Project"
-excerpt: "Designed and created a DBMS for advanced Covid-19 contact tracing \n Skills: SQL, Relational databases, DBMS<br/>"
+excerpt: "Designed and created a DBMS for advanced Covid-19 contact tracing 
+
+\n Skills: SQL, Relational databases, DBMS<br/>"
 collection: portfolio
 ---
 
