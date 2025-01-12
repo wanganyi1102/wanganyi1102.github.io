@@ -4,7 +4,6 @@ title: "Certifications"
 author_profile: true
 redirect_from:
   - /certs/
-  - /certs.html
 ---
 
 ### AWS Certified Cloud Practitioner
