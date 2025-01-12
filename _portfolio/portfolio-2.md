@@ -1,6 +1,6 @@
 ---
 title: "Kinship Recognition"
-excerpt: "Perform kinship recognition based on images of people's faces. <br/><img src='/images/500x300.png'>"
+excerpt: "Perform kinship recognition based on images of people's faces. \n Skills: Deep learning, Ensemble learning, Image classification, Computer vision, Siamese network, Tensorflow, keras <br/><img src='/images/portfolio/ml.png'>"
 collection: portfolio
 ---
 
