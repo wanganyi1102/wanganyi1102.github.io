@@ -1,9 +1,11 @@
 ---
 layout: archive
-permalink: /certs/
+permalink: /certifications/
 title: "Certifications"
 author_profile: true
 ---
+
+{% include base_path %}
 
 ### AWS Certified Cloud Practitioner
 

@@ -15,13 +15,13 @@ main:
     url: /research-projects/
 
   - title: "Certifications"
-    url: /certs/
+    url: /certifications/
 
   - title: "Blog Posts"
     url: /blogs/
 
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: /cv/
 
   # - title: "Guide"
   #   url: /markdown/
