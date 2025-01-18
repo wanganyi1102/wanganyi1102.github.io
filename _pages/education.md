@@ -26,7 +26,7 @@ First Class Honours (Highest Distinction)
 I participated in mid/long distance events and actively attended trainings twice a week to build on endurance and
 prepare for upcoming events and competitions. It was tough juggling between trainings and studies, but I found it satisfaction in running. What I enjoyed most were the Saturday morning Macritchie runs with friends 🌳🌼
 
-[TODO: insert image]
+![](/images/macritchie.jpg)
 
 #### Vision of Hope 🧑‍🦯
 
@@ -36,7 +36,8 @@ I participated in goalball games, crossfit and other fun activities with visuall
 
 I've enjoyed art since young, and took up many art electives in NTU!
 
-[TODO: insert image]
+![](/images/painting1.HEIC)
+![](/images/painting2.HEIC)
 
 #### Language Learning 🇯🇵🇰🇷
 

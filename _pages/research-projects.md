@@ -17,5 +17,7 @@ Skills: Generative AI, Deep Learning, GAN, ReactJS, Frontend development, Pytorc
 ![](/images/FYP_demo.png)
 
 [report](https://hdl.handle.net/10356/166172)
+
 [UI video demo](https://www.youtube.com/watch?v=bJiRJwpbL6Q)
+
 [github](https://github.com/wanganyi1102/react-drawing-app)

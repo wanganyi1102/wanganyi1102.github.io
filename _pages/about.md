@@ -15,16 +15,16 @@ Welcome to my personal website!
 
 ## Interests
 
-Data Science
+🧮 Data Science
 
-Computer Vision
+👓 Computer Vision
 
-Langchain
+🦜🖇️ Langchain
 
-Cloud Computing with AWS
+☁️ Cloud Computing with AWS
 
-Big data management
+💻 Big data management
 
 ## Contact me
 
-Contact me via [Email](1102way@gmail.com) or [LinkedIn](https://www.linkedin.com/in/wang-anyi-578488203/)
+Contact me via Email (https://1102way@gmail.com) or [LinkedIn](https://www.linkedin.com/in/wang-anyi-578488203/)
