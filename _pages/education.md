@@ -36,8 +36,8 @@ I participated in goalball games, crossfit and other fun activities with visuall
 
 I've enjoyed art since young, and took up many art electives in NTU!
 
-![](/images/painting1.HEIC)
-![](/images/painting2.HEIC)
+![](/images/painting1.jpeg)
+![](/images/painting2.jpeg)
 
 #### Language Learning 🇯🇵🇰🇷
 
