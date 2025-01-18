@@ -13,8 +13,6 @@ Welcome to my personal website!
 
 👨🏻‍💻 I am interested in Data Science, Machine Learning and AI.
 
-## Professional Experience
-
 ## Interests
 
 Data Science
