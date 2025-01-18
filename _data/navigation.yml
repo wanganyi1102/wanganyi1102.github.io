@@ -5,8 +5,11 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Education/Work"
+  - title: "Education"
     url: /education/
+
+  - title: "Work Experiences"
+    url: /work/
 
   - title: "Portfolio"
     url: /portfolio/
@@ -20,8 +23,8 @@ main:
   - title: "Blog Posts"
     url: /blogs/
 
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
 
   # - title: "Guide"
   #   url: /markdown/

@@ -9,7 +9,7 @@ author_profile: true
 
 ### AWS Certified Cloud Practitioner
 
-date: 2024-10-01
+2024-10-01
 
 Skills: AWS, Cloud Computing
 
@@ -17,7 +17,7 @@ Foundational knowledge of AWS Cloud concepts, core services, and cloud principle
 
 ### ST Engineering Land Systems Innovation Challenge 2024
 
-date: 2024-07-01
+2024-07-01
 
 Skills: Python, Automation, Optical Character Recognition, Computer Vision
 
@@ -26,7 +26,7 @@ Skills: Python, Automation, Optical Character Recognition, Computer Vision
 
 ### PSA Code Sprint
 
-date: 2022-09-01
+2022-09-01
 
 Skills: Django, Python, HTML, CSS, web development
 
@@ -35,12 +35,12 @@ Skills: Django, Python, HTML, CSS, web development
 
 ### Shopee Code League
 
-date: 2022-01-01
+2022-01-01
 
 Skills: Leetcode
 
 ### Japanese Language Proficiency Test (JLPT) N2 Level
 
-date: 2021-12-01
+2021-12-01
 
 demonstrates fluency to handle most real-world situations, including in practical and academic contexts.
