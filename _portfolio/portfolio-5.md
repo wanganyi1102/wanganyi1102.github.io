@@ -1,6 +1,6 @@
 ---
 title: "Ecommerce Application Development"
-excerpt: "Designed and created a DBMS for advanced Covid-19 contact tracing 
+excerpt: "Designed and created an Android application for ecommerce
 
 \n Skills: Selenium (web scraping), Java programming, Android Studio, Software development lifecycle <br/><img src='/images/portfolio/softwareeng.png'>"
 collection: portfolio
